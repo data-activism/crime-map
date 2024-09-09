@@ -1,4 +1,14 @@
-function initMap() {
+async function initMap() {
+  const response = await fetch("cases.yml");
+  if (!response.ok) {
+    throw new Error("Network response was not ok " + response.statusText);
+  }
+  const yamlText = await response.text();
+
+  // Parse the YAML text into a JavaScript object
+  const jsonObject = jsyaml.load(yamlText);
+
+  console.log("Parsed Object:", jsonObject);
   const lat = 52.56720833311814;
   const lng = 13.346614128836125;
   const map = new google.maps.Map(document.getElementById("map"), {
