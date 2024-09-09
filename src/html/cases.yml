@@ -1,0 +1,20 @@
+- title: Zehnjähriges Mädchen bei Verkehrsunfall verletzt
+  description: "In Reinickendorf wurde heute Morgen ein Mädchen bei einem Verkehrsunfall verletzt. Nach bisherigem Ermittlungsstand befuhr ein 57-Jähriger gegen 7 Uhr mit einem VW die Gotthardstraße in Richtung Emmentaler Straße. An der mit Ampeln geregelten Einmündung Gotthardstraße/Teichstraße fuhr er die Zehnjährige an, die die Gotthardstraße in Richtung Teichstraße überquerte. Das Mädchen wurde mit einer Kopfverletzung zur stationären Behandlung in ein Krankenhaus gebracht. Die Ermittlungen zu dem Unfallhergang, insbesondere zur Frage, welches Licht die Ampeln abstrahlten, dauern an."
+  icon: 🚗
+  location:
+    name: Gotthardstraße/Teichstraße, Reinickendorf, Berlin
+    coordinates:
+      lat: 52.56720833311814
+      lon: 13.346614128836125
+  time: 2024-09-09T07:00:00+02:00
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+        - 26
+    - stvg:
+        - 7
+        - 18
+    - stgb:
+        - 229
