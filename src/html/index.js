@@ -19,9 +19,21 @@ async function initMap() {
   cases.forEach((c) => {
     console.log(c.location.coordinates.lat, c.location.coordinates.lng);
 
+    const date = new Date(c.time);
+    const formattedDate = date.toLocaleDateString("de-DE", {
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+    });
+    const formattedTime = date.toLocaleTimeString("de-DE", {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+
     const infowindow = new google.maps.InfoWindow({
       content:
         `<h4><a href="${c.source}" target="_blank">${c.title}</a></h4>` +
+        `<p><em>${c.location.name};  ${formattedDate}, ${formattedTime} Uhr</em></p>` +
         `<p>${c.description}</p>`,
     });
 
