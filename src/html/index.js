@@ -6,43 +6,50 @@ async function initMap() {
   const yamlText = await response.text();
 
   // Parse the YAML text into a JavaScript object
-  const jsonObject = jsyaml.load(yamlText);
+  const cases = jsyaml.load(yamlText);
 
-  console.log("Parsed Object:", jsonObject);
-  const lat = 52.56720833311814;
-  const lng = 13.346614128836125;
   const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: lat, lng: lng },
-    zoom: 15,
-  });
-
-  const contentString =
-    '<div id="content">' +
-    '<h1 id="firstHeading" class="firstHeading" style="font-weight: bold;">Location Title</h1>' +
-    '<div id="bodyContent">' +
-    '<p><a href="https://example.com" target="_blank">Link to more information</a></p>' +
-    "</div>" +
-    "</div>";
-
-  const infowindow = new google.maps.InfoWindow({
-    content: contentString,
-    ariaLabel: "Location Information",
-  });
-
-  const marker = new google.maps.Marker({
-    position: { lat: lat, lng: lng },
-    map: map,
-    title: "Click for more information",
-    label: {
-      text: "🚘",
-      fontSize: "24px",
+    center: {
+      lat: 52.518611,
+      lng: 13.408333,
     },
+    zoom: 11,
   });
+  // loop over cases, add markers to map
+  cases.forEach((c) => {
+    console.log(c.location.coordinates.lat, c.location.coordinates.lng);
 
-  marker.addListener("click", () => {
-    infowindow.open({
-      anchor: marker,
-      map,
+    const contentString =
+      '<div id="content">' +
+      `<h1 id="firstHeading" class="firstHeading" style="font-weight: bold;">${c.title}</h1>` +
+      '<div id="bodyContent">' +
+      `<p><a href="${c.source}" target="_blank">Quelle</a></p>` +
+      "</div>" +
+      "</div>";
+
+    const infowindow = new google.maps.InfoWindow({
+      content: contentString,
+      ariaLabel: "Location Information",
+    });
+
+    const marker = new google.maps.Marker({
+      position: {
+        lat: c.location.coordinates.lat,
+        lng: c.location.coordinates.lng,
+      },
+      map: map,
+      title: "Click for more information",
+      label: {
+        text: "🚘",
+        fontSize: "24px",
+      },
+    });
+
+    marker.addListener("click", () => {
+      infowindow.open({
+        anchor: marker,
+        map,
+      });
     });
   });
 }
