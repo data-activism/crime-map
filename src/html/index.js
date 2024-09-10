@@ -33,7 +33,7 @@ async function initMap() {
       map: map,
       title: "Click for more information",
       label: {
-        text: "🚘",
+        text: c.icon,
         fontSize: "24px",
       },
     });
