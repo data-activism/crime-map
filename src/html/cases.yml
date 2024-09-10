@@ -19,3 +19,33 @@
         - 18
     - stgb:
         - 229
+- title: Mit Motorrad Polizeikontrolle entzogen
+  description: "Wegen eines verbotenen Kraftfahrzeugrennens gestern Abend in Tempelhof und Schöneberg sowie weiterer Straftaten muss sich ein 20-Jähriger verantworten. Der junge Mann war gegen 21.40 Uhr Zivilpolizisten in der Alboinstraße Ecke Schöneberger Straße aufgefallen, als er mit einer Suzuki bei Rot abbog. Er entzog sich der Überprüfung, fuhr über Gehwege und rote Ampeln. Nach einer Verfolgung und einem Unfall wurde er festgenommen. Es wurden Betäubungsmittel, Bargeld, und Waffen sichergestellt. Die Ermittlungen wegen zahlreicher Straftaten dauern an."
+  icon: 🏍️
+  location:
+    name: Alboinstraße Ecke Schöneberger Straße, Tempelhof-Schöneberg/Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.475296
+      lng: 13.374562
+  time: 2024-09-08T21:40:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483859.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 5
+        - 8
+        - 26
+    - stvg:
+        - 7
+        - 18
+        - 19
+    - stgb:
+        - 315c
+        - 113
+        - 263
+        - 267
+        - 52
+        - 303
+    - btmg:
+        - 29
