@@ -44,6 +44,7 @@ async function initMap() {
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(dateRangeDiv);
 
   let markers = [];
+  deleteAllMarkers(markers);
   setMarkers(map, cases, markers);
 }
 
@@ -89,4 +90,11 @@ function setMarkers(map, cases, markers) {
 
     markers.push(marker);
   });
+}
+
+function deleteAllMarkers(markers) {
+  for (let i = 0; i < markers.length; i++) {
+    markers[i].setMap(null); // Remove marker from the map
+  }
+  markers = []; // Clear the array of markers
 }
