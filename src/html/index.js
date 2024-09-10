@@ -1,19 +1,4 @@
 async function initMap() {
-  // Initialize Flatpickr for date range selection
-  flatpickr("#datePicker", {
-    mode: "range",
-    dateFormat: "Y-m-d",
-    onChange: function (selectedDates, dateStr, instance) {
-      // Handle date range selection
-      if (selectedDates.length === 2) {
-        const startDate = selectedDates[0];
-        const endDate = selectedDates[1];
-        console.log("Selected Date Range:", startDate, endDate);
-        // You can integrate this date range with map functionality here
-      }
-    },
-  });
-
   const response = await fetch("cases.yml");
   if (!response.ok) {
     throw new Error("Network response was not ok " + response.statusText);
@@ -34,6 +19,30 @@ async function initMap() {
       position: google.maps.ControlPosition.BOTTOM_LEFT,
     },
   });
+
+  const dateRangeDiv = document.createElement("div");
+  dateRangeDiv.innerHTML = `
+    <input type="text" id="date-range" placeholder="Zeitraum auswählen" class="form-control">
+  `;
+  // Initialize Flatpickr for date range selection
+  flatpickr(dateRangeDiv, {
+    mode: "range",
+    locale: "German",
+    dateFormat: "Y-m-d",
+    onChange: function (selectedDates, dateStr, instance) {
+      // Handle date range selection
+      if (selectedDates.length === 2) {
+        const startDate = selectedDates[0];
+        const endDate = selectedDates[1];
+        console.log("Selected Date Range:", startDate, endDate);
+        // Integrate this date range with map functionality here
+      }
+    },
+  });
+
+  // Add the date range picker to the map as a control
+  map.controls[google.maps.ControlPosition.TOP_LEFT].push(dateRangeDiv);
+
   // loop over cases, add markers to map
   cases.forEach((c) => {
     const date = new Date(c.time);
