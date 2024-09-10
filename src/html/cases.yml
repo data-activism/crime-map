@@ -49,3 +49,117 @@
         - 303
     - btmg:
         - 29
+- title: Brennende Autos - Brandkommissariat ermittelt wegen Brandstiftung
+  description: "Gegen 0.50 Uhr brannte ein Nissan, der in der Maxie-Wander-Straße in Hellersdorf geparkt war. Er wurde stark beschädigt. Die Brandkommissariate ermitteln wegen Brandstiftung."
+  icon: 🚒
+  location:
+    name: Maxie-Wander-Straße, Hellersdorf, Berlin
+    coordinates:
+      lat: 52.537275
+      lng: 13.570742
+  time: 2024-09-09T00:50:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483860.php
+  laws:
+    - stgb:
+        - 306
+- title: Brennende Autos - Brandkommissariat ermittelt wegen Brandstiftung
+  description: "Kurz nach 1 Uhr alarmierte ein Anwohner Feuerwehrkräfte in das Kiehlufer in Neukölln, nachdem er dort auf einen in Flammen stehenden Mercedes aufmerksam geworden war. Die Flammen griffen auf einen vor dem Wagen geparkten Citroen über. Der Mercedes wurde durch das Feuer fast komplett zerstört, der Citroen stark beschädigt. Die Brandkommissariate ermitteln wegen Brandstiftung."
+  icon: 🚒
+  location:
+    name: Kiehlufer, Neukölln, Berlin
+    coordinates:
+      lat: 52.485052
+      lng: 13.448601
+  time: 2024-09-09T01:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483861.php
+  laws:
+    - stgb:
+        - 306
+- title: Brennende Autos - Brandkommissariat ermittelt wegen Brandstiftung
+  description: "Die Uhr zeigte etwa 3.10 Uhr, als ein Anwohner in der Neuen Grottkauer Straße in Hellersdorf aufgrund eines lauten Knalls aus dem Schlaf gerissen wurde. Er entdeckte daraufhin Flammen an einem dort abgestellten Toyota und alarmierte die Feuerwehr. Ein rechts daneben geparkter Mercedes geriet ebenfalls in Brand, ein links daneben befindlicher VW wurde durch die starke Hitzeeinwirkung beschädigt. Die Brandkommissariate ermitteln wegen Brandstiftung."
+  icon: 🚒
+  location:
+    name: Neue Grottkauer Straße, Hellersdorf, Berlin
+    coordinates:
+      lat: 52.535445
+      lng: 13.582938
+  time: 2024-09-09T03:10:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483862.php
+  laws:
+    - stgb:
+        - 306
+- title: Homophob beleidigt, geschlagen und getreten
+  description: "Gestern Abend soll ein Mann in Kreuzberg zunächst zwei Frauen homophob beleidigt haben. Gegen 18.30 Uhr ging der Unbekannte in der Ratiborstraße an den beiden Frauen im Alter von 34 und 28 Jahren vorbei und soll sie homophob beleidigt haben. Gegen 19.15 Uhr erkannten die Frauen den Mann in der Lohmühlenstraße Ecke Karl-Kunger-Straße wieder und sprachen ihn auf sein Verhalten an. Nach einer verbalen Auseinandersetzung kam ein 53-jähriger Passant hinzu, um zu schlichten. Die drei Männer gingen dann gemeinsam auf den Zeugen zu und sollen ihn mehrmals geschlagen sowie die 34-Jährige getreten haben. Die Angreifer flüchteten. Der 53-Jährige erlitt Schmerzen am Kopf, während die Frau körperlich unverletzt blieb. Der Polizeiliche Staatsschutz des Landeskriminalamts Berlin hat die weiteren Ermittlungen übernommen."
+  icon: 🚨
+  location:
+    name: Lohmühlenstraße Ecke Karl-Kunger-Straße, Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.49313241428619
+      lng: 13.444444113491624
+  time: 2024-09-08T18:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483863.php
+  laws:
+    - stgb:
+        - 185
+        - 223
+        - 240
+        - 130
+- title: Seniorin bei Verkehrsunfall verletzt
+  description: "Bei einem Verkehrsunfall gestern Nachmittag in Lichterfelde wurde eine Seniorin verletzt. Nach derzeitigen Erkenntnissen betrat die 80-Jährige gegen 14.30 Uhr die Fahrbahn der Königsberger Straße und wurde dabei von einem 27-Jährigen angefahren, der mit seinem Wagen die Königsberger Straße in Richtung Morgensternstraße befuhr. Dabei erlitt die Seniorin Kopfverletzungen und wurde stationär in einem Krankenhaus aufgenommen. Der Autofahrer blieb unverletzt. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 4 (Süd) übernommen."
+  icon: 🚗
+  location:
+    name: Königsberger Straße, Lichterfelde, Steglitz-Zehlendorf, Berlin
+    coordinates:
+      lat: 52.437522
+      lng: 13.305678
+  time: 2024-09-08T14:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483864.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 229
+- title: Auto in Brand gesetzt
+  description: "In der vergangenen Nacht brannte in Mitte ein Auto. Gemäß derzeitigem Ermittlungsstand und Zeugenangaben hielten sich gegen 23.10 Uhr zwei Männer an einem Opel in der Straße Fischerinsel auf. In der Nähe stand zudem noch eine dritte Person. Plötzlich kam es zu einem lauten Knall und es entwickelte sich ein Brand im Wagen. Alle drei Personen flüchteten daraufhin in Richtung Spittelmarkt, wo alarmierte Einsatzkräfte des Polizeiabschnitts 57 einen Tatverdächtigen festnahmen, der sich nach eigenen Angaben zuvor auch am Fahrzeug aufgehalten hatte. Er erlitt Brandverletzungen, die zunächst ambulant in einem Krankenhaus behandelt wurden. Feuerwehrkräfte löschten die Flammen an dem Wagen. Weitere Fahrzeuge waren nicht betroffen. Der Festgenommene, ein 22-Jähriger, kam nach seiner Behandlung und nach Abschluss der polizeilichen Maßnahmen wieder auf freien Fuß. Die Ermittlungen nach den anderen beiden Personen dauern an. Ein Brandkommissariat des Landeskriminalamts Berlin ist damit betraut."
+  icon: 🚒
+  location:
+    name: Fischerinsel, Mitte, Berlin
+    coordinates:
+      lat: 52.514581
+      lng: 13.403065
+  time: 2024-09-08T23:10:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483865.php
+  laws:
+    - stgb:
+        - 306
+- title: Brand in Mehrfamilienhaus – Mieter rettet sich
+  description: "Kräfte von Polizei und Feuerwehr wurden gestern Nachmittag zu einem Brand in Spandau alarmiert. Kurz nach 17 Uhr meldete eine Anruferin, dass es aus einem Mehrfamilienhaus in der Feldstraße stark qualmen würde und sie einen ausgelösten Rauchwarnmelder höre. Noch vor Eintreffen der Einsatzkräfte konnte sich der Mieter der betroffenen Erdgeschosswohnung auf die Straße retten. Er erlitt Verbrennungen und wurde zudem mit dem Verdacht auf eine Rauchgasvergiftung stationär in einem Krankenhaus aufgenommen. Die Brandbekämpfer löschten die Flammen vollständig und konnten den Einsatz kurz vor 18 Uhr beenden. Die weiteren Ermittlungen führt ein Brandkommissariat des Landeskriminalamts Berlin."
+  icon: 🚒
+  location:
+    name: Feldstraße, Spandau, Berlin
+    coordinates:
+      lat: 52.539168
+      lng: 13.200083
+  time: 2024-09-08T17:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483866.php
+  laws:
+    - stgb:
+        - 306
+- title: Mann im Wasser
+  description: "In der vergangenen Nacht wurden Einsatzkräfte wegen des Verdachts eines schweren Raubes nach Friedrichshain alarmiert. Nach ersten Erkenntnissen sollen mehrere Personen gegen 3 Uhr ein Platschen im Park an der Spree wahrgenommen haben. Wenig später hätten sie einen 30-jährigen Mann im brusttiefen Wasser des Flusses vorgefunden, der aus eigener Kraft nicht über die dortige Mauer zurückklettern konnte. Der Mann gab an, zuvor einer Frau zu Hilfe gekommen zu sein, die geschrien haben soll. Als er den Notruf habe alarmieren wollen, soll eine unbekannte Personengruppe ihm seine Umhängetasche entwendet und ihn anschließend ins Wasser gestoßen haben. Die Zeugen halfen dem Mann aus dem Wasser. Er blieb unverletzt. Die weiteren Ermittlungen hat ein Fachkommissariat der Polizeidirektion 5 (City) übernommen."
+  icon: 🚨
+  location:
+    name: Park an der Spree, Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.50736982523643
+      lng: 13.43563248650837
+  time: 2024-09-08T03:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483867.php
+  laws:
+    - stgb:
+        - 249
+        - 223
