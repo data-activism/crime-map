@@ -163,3 +163,635 @@
     - stgb:
         - 249
         - 223
+- title: Homophob beleidigt, geschlagen und getreten
+  description: "In der vergangenen Nacht sollen drei Männer in Kreuzberg zunächst eine Gruppe von Personen homophob beleidigt und anschließend zwei Männer geschlagen und einen davon auch getreten haben. Gemäß derzeitigem Ermittlungsstand fuhr das Trio gegen 2 Uhr in der Skalitzer Straße auf E-Scootern an der Gruppe vorbei und soll diese zunächst homophob beleidigt haben. Dann sollen sie gewendet haben und zu der Gruppe zurückgefahren sein. Einer des Trios, der bisher unbekannt blieb, soll einen 26-Jährigen aus der Gruppe gegen den Hinterkopf geschlagen haben. Als ein 25-Jähriger dazwischen ging, sollen alle drei E-Scooter-Fahrer auf ihn eingeschlagen und eingetreten haben. Zudem sollen sie den 25-Jährigen homophob beleidigt haben. Anschließend flüchteten sie auf ihren Elektrorollern. Zwischenzeitlich alarmierte Polizeieinsatzkräfte nahmen in der Zeughofstraße einen 19-jährigen Tatverdächtigen fest. Bei einem weiteren Tatverdächtigen im Alter von 20 Jahren klickten in der Görlitzer Straße die Handschellen. Der Jüngere leistete bei seiner Festnahme Widerstand, wodurch eine Einsatzkraft verletzt wurde, jedoch ihren Dienst fortsetzen konnte. Beide Festgenommenen wurden nach den polizeilichen Maßnahmen wieder entlassen. Der 26-Jährige erlitt Schmerzen am Kopf und der ein Jahr jüngere Mann erlitt Hautabschürfungen an der Schulter. Ärztliche Behandlungen waren bei ihnen zunächst nicht vonnöten. Der Polizeiliche Staatsschutz des Landeskriminalamtes hat die weiteren Ermittlungen übernommen."
+  icon: 🚨
+  location:
+    name: Skalitzer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.499016
+      lng: 13.421540
+  time: 2024-09-08T02:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483868.php
+  laws:
+    - stgb:
+        - 185
+        - 223
+        - 240
+        - 113
+        - 130
+- title: Schwerer Landfriedensbruch
+  description: "Gestern Abend wurden Einsatzkräfte zu einem schweren Landfriedensbruch nach Prenzlauer Berg alarmiert. Nach ersten Erkenntnissen soll sich eine Gruppe von etwa 100 Personen gegen 21.10 Uhr an der Ecke Eberswalder Straße und Schönhauser Allee aufgehalten haben. Dabei sollen sie Parolen mit Palästina-Bezug skandiert und diverse Sachbeschädigungen begangen haben. Unter anderem seien in der Schönhauser Allee mehrere Warnbaken, Verkehrsschilder, Dixi-Klos und E-Scooter umgeworfen worden. Ferner soll es zum Abbrennen von Pyrotechnik gekommen und eine Vielzahl von Farbschmierereien mit Palästina-Bezug angebracht worden sein. Die Personengruppe konnte bei Eintreffen der Einsatzkräfte nicht mehr angetroffen werden. Die Hindernisse auf der Fahrbahn wurden entfernt und die Farbschmierereien unkenntlich gemacht. Die weiteren Ermittlungen hat der Polizeiliche Staatsschutz des Landeskriminalamts übernommen."
+  icon: 🚨
+  location:
+    name: Eberswalder Straße Ecke Schönhauser Allee, Prenzlauer Berg, Pankow, Berlin
+    coordinates:
+      lat: 52.540518
+      lng: 13.412417
+  time: 2024-09-07T21:10:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483869.php
+  laws:
+    - stgb:
+        - 125
+        - 303
+- title: Kind bei Verkehrsunfall verletzt
+  description: "Gestern Nachmittag erlitt ein Mädchen bei einem Verkehrsunfall in Gropiusstadt einen Armbruch, Kopfverletzungen sowie Prellungen und Hautabschürfungen. Nach derzeitigem Kenntnisstand überquerte die Elfjährige gegen 14.30 Uhr die Fahrbahn der Johannisthaler Chaussee und wurde dabei von einer 53-jährigen Autofahrerin angefahren, die mit ihrem Wagen die Johannisthaler Chaussee in Fahrtrichtung Kölner Damm befuhr. Zur Behandlung ihrer Verletzungen kam die Elfjährige zur stationären Aufnahme in ein Krankenhaus."
+  icon: 🚗
+  location:
+    name: Johannisthaler Chaussee, Gropiusstadt, Neukölln, Berlin
+    coordinates:
+      lat: 52.433722
+      lng: 13.474926
+  time: 2024-09-07T14:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483870.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 229
+- title: Motorradfahrer bei Verkehrsunfall tödlich verletzt
+  description: "Gestern Nachmittag wurden Einsatzkräfte wegen eines tödlichen Verkehrsunfalls nach Friedrichshagen alarmiert. Nach ersten Erkenntnissen soll ein 29-jähriger Motorradfahrer gegen 14 Uhr die Dahlwitzer Landstraße stadteinwärts befahren haben. Beim Überholen zweier Pkw soll der Mann einen entgegenkommenden Wagen übersehen haben. In der Folge habe er eine Ausweichbewegung gemacht, sei von der Fahrbahn abgekommen und gegen einen Baum geprallt. Trotz Reanimationsmaßnahmen verstarb er noch am Unfallort. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 3 (Ost) übernommen."
+  icon: 🏍️
+  location:
+    name: Dahlwitzer Landstraße, Friedrichshagen, Treptow-Köpenick, Berlin
+    coordinates:
+      lat: 52.452222
+      lng: 13.624444
+  time: 2024-09-07T14:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483871.php
+  laws:
+    - stvo:
+        - 1
+        - 5
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 222
+- title: Einsatzfahrzeug gerammt – Polizist macht von Schusswaffe Gebrauch
+  description: "Während einer Verkehrskontrolle wurde heute früh in Pankow ein Einsatzfahrzeug gerammt. Kurz vor 5 Uhr fiel der Besatzung eines Einsatzwagens ein BMW auf der Pankstraße im Stadtteil Gesundbrunnen auf, der dort mit überhöhter Geschwindigkeit unterwegs war. Die Besatzung entschloss sich zur verkehrsrechtlichen Überprüfung und folgte dem Fahrzeug. Mit Anhaltesignalen forderte sie die fahrzeugführende Person auf, den Wagen anzuhalten. Die Fahrerin oder der Fahrer missachtete die Anhaltesignale und flüchtete über mehrere Straßen und unter Missachtung roter Ampeln bis zur Kreuzung Maximilianstraße/Brixener Straße. Dort hielt der Wagen an. Nachdem sich die Besatzung mit ihrem Einsatzwagen hinter den BMW stellte, fuhr die Fahrerin oder der Fahrer den BMW rückwärts und rammte den Einsatzwagen wiederholt. Der Fahrer des Einsatzwagens machte von seiner Schusswaffe Gebrauch. Die Fahrerin oder der Fahrer flüchtete jedoch weiter. Weitere Einsatzkräfte fanden das Fahrzeug gegen 8 Uhr verlassen und ohne Kennzeichen auf der Wilhelm-Kuhr-Straße. Sowohl der BMW als auch der Einsatzwagen wurden sichergestellt. Der Fahrer des Einsatzwagens erlitt Verletzungen am Knie und Rumpf, dessen Beifahrerin ein Knalltrauma. Beide konnten ihren Dienst nicht fortsetzen und erhielten seelsorgerische bzw. psychologische Betreuung. Im Fahrzeuginneren des BMW wurden verdächtige Gegenstände gefunden, die sich als unbedenklich herausstellten. Die Ermittlungen, insbesondere zum Hintergrund der Flucht und zur Rechtmäßigkeit des Schusswaffengebrauchs, dauern an. Bislang sind keine durch den Schusswaffengebrauch verletzten Personen bekannt."
+  icon: 🚔
+  location:
+    name: Kreuzung Maximilianstraße/Brixener Straße, Pankow, Berlin
+    coordinates:
+      lat: 52.557711
+      lng: 13.403018
+  time: 2024-09-07T05:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483872.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 5
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 113
+        - 315b
+        - 125
+- title: Mit Fahrzeug auf Männer zugehalten
+  description: "In Rummelsburg konnten sich heute früh zwei Männer vor einer Diskothek nur knapp vor einem auf sie zufahrenden Fahrzeug retten. Dem bisherigen Ermittlungsstand zufolge verwehrten die beiden 26 und 41 Jahre alten Mitarbeiter des Sicherheitsdienstes des an der Hauptstraße befindlichen Tanzclubs gegen 5.50 Uhr einem Gast den Zutritt zu der Veranstaltungsstätte. Der unbekannt gebliebene Mann soll das zunächst höflich zur Kenntnis genommen und den Ort verlassen haben. Kurz darauf soll er mit einem gemieteten Audi zurückgekehrt und zweimal vorsätzlich gegen das Eingangstor des Clubs gefahren sein. Als die beiden Sicherheitsmitarbeiter auf den Gehweg getreten seien, um nachzusehen, soll er nacheinander gezielt auf die beiden Männer zugefahren sein. Beide konnten zur Seite springen und so einen Zusammenstoß mit dem herannahenden Fahrzeug verhindern. Der Mann soll anschließend gegen die Mauer des Clubs gefahren sein, dann zurückgesetzt haben, erneut gegen ein Tor der Diskothek gestoßen und dann in Richtung Ostkreuz davongefahren sein. Verletzt wurde niemand. Eine von Polizeikräften des Abschnitts 34 umgehend durchgeführte Absuche des Nahbereichs nach dem mit dem Audi flüchtenden Fahrer verlief ohne Erfolg. Die Ermittlungen wegen versuchter gefährlicher Körperverletzung dauern an."
+  icon: 🚗
+  location:
+    name: Hauptstraße, Rummelsburg, Lichtenberg, Berlin
+    coordinates:
+      lat: 52.503144
+      lng: 13.469313
+  time: 2024-09-07T05:50:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483873.php
+  laws:
+    - stgb:
+        - 224
+        - 315b
+- title: Verdacht eines Tötungsdelikts in Wilhelmstadt – Tatverdächtige festgenommen
+  description: "Die 8. Mordkommission des Landeskriminalamtes und die Staatsanwaltschaft Berlin haben heute früh die Ermittlungen zu einem mutmaßlichen Tötungsdelikt in Wilhelmstadt aufgenommen. Den ersten Erkenntnissen zufolge riefen Anwohnende eines Mehrfamilienhauses im Päwesiner Weg gegen 3.50 Uhr die Polizei, weil sie aus einer Wohnung im Erdgeschoss laute Geräusche wahrnahmen und sahen, dass von dort Gegenstände nach draußen geworfen wurden. Einsatzkräfte des Polizeiabschnitts 23 verschafften sich daraufhin gewaltsam Zugang zur Wohnung. Dort fanden sie ein lebloses, drei Jahre altes Kind im Beisein seiner 42-jährigen Mutter. Die Polizeikräfte begannen umgehend mit der Reanimation des Kindes, die ein hinzugerufener Arzt fortsetzte. Alle Rettungsmaßnahmen blieben jedoch erfolglos. Aufgrund der Auffindesituation in der Wohnung gehen die Ermittlerinnen und Ermittler von einem Tötungsdelikt aus. Die Mutter wurde als dringend tatverdächtig festgenommen. Auf Anordnung der Staatsanwaltschaft wurde heute Mittag die Obduktion des Leichnams durchgeführt. Die Ermittlungen dauern an."
+  icon: ⚖️
+  location:
+    name: Päwesiner Weg, Wilhelmstadt, Spandau, Berlin
+    coordinates:
+      lat: 52.523551
+      lng: 13.188672
+  time: 2024-09-07T03:50:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483874.php
+  laws:
+    - stgb:
+        - 212
+- title: Fahrgäste schlagen und würgen einen Mann am Steuer
+  description: "In Kreuzberg verletzten in der vergangenen Nacht zwei Männer den Fahrer eines von ihnen gemieteten Autos. Einsatzkräften des Polizeiabschnitts 52 fiel der haltende Wagen eines Fahrdienstleisters gegen 22.30 Uhr im Bereich Dudenstraße/Tempelhofer Damm/Mehringdamm/Platz der Luftbrücke auf, weil in dem Auto ununterbrochen die Hupe betätigt wurde. In dem Fahrzeug sah die Besatzung des Funkwagens, dass zwei Fahrgäste von der Rückbank aus auf den 24-jährigen Mann am Steuer einschlugen, eintraten, an ihm zerrten und ihn mit dem Sicherheitsgurt würgten. Der Beamtin und dem Beamten gelang es, sich umgehend Zugang zum Fahrzeuginneren zu verschaffen und die beiden später identifizierten 39- und 38-jährigen Männer von weiteren Übergriffen abzuhalten. Mit Unterstützung einer weiteren Streife nahmen die Einsatzkräfte die zwei Männer fest, die den bisherigen Ermittlungen zufolge den zuvor vereinbarten Fahrpreis nicht hatten zahlen wollten. Der Fahrer erlitt diverse Hämatome an Kopf und Arm sowie Würgemale am Hals. Er kam zur ambulanten Behandlung in ein Krankenhaus. Ein Atemalkoholtest auf freiwilliger Basis ergab bei dem 39-jährigen Angreifer einen Wert von etwa 2,7 Promille. In einem Polizeigewahrsam wurde ihm ebenso wie seinem Begleiter, der den freiwilligen Test abgelehnt hatte, auf staatsanwaltschaftliche Anordnung hin Blut entnommen. In der Gürteltasche des 38-Jährigen fanden die Einsatzkräfte ein Messer, das sie beschlagnahmten. Beide Männer wurden nach Beendigung der polizeilichen Maßnahmen auf freien Fuß entlassen. Die Ermittlungen der Kriminalpolizei dauern an."
+  icon: 🚔
+  location:
+    name: Dudenstraße/Tempelhofer Damm/Mehringdamm/Platz der Luftbrücke, Kreuzberg, Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.485616
+      lng: 13.374198
+  time: 2024-09-06T22:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483875.php
+  laws:
+    - stgb:
+        - 223
+        - 240
+        - 242
+        - 113
+- title: Fußgängerin mit Fahrrad umgefahren
+  description: "In Westend ist gestern früh eine Fußgängerin von einer unbekannten Person verletzt worden, die mit einem Fahrrad unterwegs war. Den Schilderungen der 35-Jährigen zufolge lief sie gegen 4 Uhr auf dem Gehweg im Bereich Theodor-Heuss-Platz Ecke Ahornallee in Richtung Reichsstraße, als sie von einer fahrradfahrenden Person von hinten bei voller Fahrt umgestoßen worden sei. Aufgrund der Wucht des Aufpralls sei sie zu Boden gestürzt, verlor ihr Bewusstsein und erwachte erst wieder nach einiger Zeit. Der oder die Unbekannte hatte sich derweil bereits unerlaubt vom Unfallort entfernt. Die Frau legte sich auf eine Parkbank, auf der sie mehrere Stunden später von einem Passanten schlafend vorgefunden wurde. Dieser rief einen Rettungswagen. Die 35-Jährige kam mit einer Verletzung am Auge, die möglicherweise operiert werden muss, in ein Krankenhaus. Die Ermittlungen übernahm ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 2 (West)."
+  icon: 🚴‍♂️
+  location:
+    name: Theodor-Heuss-Platz Ecke Ahornallee, Westend, Charlottenburg-Wilmersdorf, Berlin
+    coordinates:
+      lat: 52.510242
+      lng: 13.274604
+  time: 2024-09-06T04:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483876.php
+  laws:
+    - stvo:
+        - 1
+    - stgb:
+        - 229
+- title: Einsatzkräfte angegriffen
+  description: "Vergangene Nacht griff ein Mann in Friedrichshain Einsatzkräfte während einer Überprüfung an. Gegen 23 Uhr fiel Einsatzkräften auf dem RAW-Gelände an der Revaler Straße ein Mann auf, der sich beim Herannahen der Polizisten plötzlich hinter einem Gebäude verbarg und einer anderen Person etwas zurief. Die Einsatzkräfte vermuteten, dass eine Straftat verübt wurde. Während der Überprüfung verhielt sich der 50-Jährige aggressiv und wehrte sich gegen die Durchsuchung. Bei der Durchsuchung fanden die Polizisten mutmaßliches Kokain. Als er zur Identitätsfeststellung zu einem Dienstfahrzeug gebracht werden sollte, leistete er massiven Widerstand, indem er schlug, trat und biss die Beamten. Die Situation wurde von einer Menschenmenge gefilmt. Der Mann wurde nach den polizeilichen Maßnahmen entlassen und muss sich wegen Widerstands gegen Vollstreckungsbeamte, tätlichem Angriff, illegalem Drogenbesitz und Beleidigung verantworten. Zwei verletzte Polizisten konnten ihren Dienst nicht fortsetzen."
+  icon: 🚔
+  location:
+    name: RAW-Gelände, Revaler Straße, Friedrichshain, Berlin
+    coordinates:
+      lat: 52.511278
+      lng: 13.454167
+  time: 2024-09-06T23:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483877.php
+  laws:
+    - stgb:
+        - 113
+        - 114
+        - 223
+        - 185
+        - 29 BtMG
+- title: Auseinandersetzung im Freibad
+  description: "Polizeikräfte wurden gestern Mittag zu einem Freibad in Neukölln alarmiert. Gegen 12.30 Uhr kam es im Freibad am Columbiadamm zwischen drei männlichen Badegästen und zwei Mitarbeitern des Sicherheitspersonals zu einer Auseinandersetzung, nachdem die Männer trotz eines Hausverbots das Bad nicht verlassen wollten. Der 24-Jährige warf eine Glasflasche, die eine Kassiererin verletzte. In der folgenden Auseinandersetzung wurden weitere Flaschen geworfen. Die drei Männer wurden festgenommen, zeigten aber später an, dass sie vom Sicherheitspersonal geschlagen und bestohlen worden seien. Die Ermittlungen wegen Körperverletzung und Diebstahls dauern an."
+  icon: 🏊‍♂️
+  location:
+    name: Freibad am Columbiadamm, Neukölln, Berlin
+    coordinates:
+      lat: 52.484642
+      lng: 13.400465
+  time: 2024-09-06T12:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483878.php
+  laws:
+    - stgb:
+        - 223
+        - 224
+        - 242
+- title: Verkehrsunfall – Seniorin nach Kollision mit Baum im Krankenhaus
+  description: "Gestern Mittag kam es in Zehlendorf zu einem Verkehrsunfall, bei dem sich eine Seniorin verletzte. Gegen 13 Uhr befuhr eine 87-Jährige den Teltower Damm und prallte nach rechts von der Fahrbahn gegen einen Baum. Sie erlitt innere Verletzungen und wurde zur stationären Behandlung in ein Krankenhaus gebracht. Ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 4 (Süd) übernahm die Ermittlungen."
+  icon: 🚗
+  location:
+    name: Teltower Damm, Zehlendorf, Steglitz-Zehlendorf, Berlin
+    coordinates:
+      lat: 52.434400
+      lng: 13.266600
+  time: 2024-09-06T13:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483879.php
+  laws:
+    - stvo:
+        - 1
+    - stvg:
+        - 7
+- title: Nach Raub festgenommen
+  description: "In der vergangenen Nacht nahm die Polizei einen mutmaßlichen Räuber in Kreuzberg fest. Kurz nach Mitternacht wurden Polizeibeamte in Zivil auf einen Mann aufmerksam, der in der Straße Vor dem Schlesischen Tor einen anderen Mann antanzte. Daraufhin legte er dem 27-Jährigen seinen Arm um den Hals, versuchte ihn in den Schwitzkasten zu nehmen, schlug ihm gegen die Brust und riss ihm dabei eine Kette vom Hals. Die Einsatzkräfte nahmen die Verfolgung des flüchtenden Tatverdächtigen auf und nahmen ihn in der Nähe des Tatortes fest. Bei der Durchsuchung des 22-Jährigen fanden die Einsatzkräfte die entwendete Halskette und gaben sie dem Besitzer zurück. Der Tatverdächtige kam zur erkennungsdienstlichen Behandlung in einen Polizeigewahrsam, aus dem er anschließend wieder entlassen wurde. Die Kriminalpolizei der Polizeidirektion 5 (City) übernahm die weiteren Ermittlungen."
+  icon: 🕵️‍♂️
+  location:
+    name: Vor dem Schlesischen Tor, Kreuzberg, Friedrichshain-Kreuzberg, Berlin
+    coordinates:
+      lat: 52.501919
+      lng: 13.450697
+  time: 2024-09-06T00:10:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483880.php
+  laws:
+    - stgb:
+        - 249
+        - 223
+- title: Fußgängerin angefahren
+  description: "Gestern Morgen erlitt eine Fußgängerin bei einem Verkehrsunfall in Reinickendorf Verletzungen. Nach bisherigen Erkenntnissen fuhr ein 57-jähriger Autofahrer gegen 8.40 Uhr von einem Grundstück der Residenzstraße und bog nach rechts ab. Hierbei übersah er offenbar eine Fußgängerin, die aus Richtung des Ritterlandweges die Fahrbahn der Residenzstraße überquerte. Die 80-Jährige erlitt Verletzungen an den Beinen und an einem Arm. Alarmierte Rettungskräfte brachten sie in ein Krankenhaus, in dem sie stationär aufgenommen wurde. Der Autofahrer blieb unverletzt. Die weiteren Ermittlungen führt ein Fachkommissariat für Verkehrsdelikte der Direktion 1 (Nord)."
+  icon: 🚗
+  location:
+    name: Residenzstraße, Reinickendorf, Berlin
+    coordinates:
+      lat: 52.571448
+      lng: 13.354462
+  time: 2024-09-06T08:40:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483881.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 229
+- title: Fußgänger angefahren und geflüchtet – Zeugen gesucht
+  description: "In der Nacht des 4. September 2024 ereignete sich ein Verkehrsunfall in Neu-Hohenschönhausen, bei dem ein Fußgänger verletzt wurde. Nach bisherigem Ermittlungsstand befuhr eine bisher unbekannte Person in einem Auto gegen 21.40 Uhr die Falkenberger Chaussee in Richtung Wustrower Straße. Auf der Falkenberger Brücke, in Höhe des S-Bahnhofes Hohenschönhausen, erfasste das Fahrzeug einen Fußgänger, der die Fahrbahn der Falkenberger Chaussee betreten hatte. Die unbekannte Person fuhr den Fußgänger mit dem Wagen an und flüchtete anschließend unerlaubt vom Unfallort in Richtung Hansastraße. Der 38-Jährige erlitt Verletzungen am Rumpf und an einem Bein. Er kam mit einem alarmierten Rettungswagen zur stationären Aufnahme und Behandlung in ein Krankenhaus."
+  icon: 🚗
+  location:
+    name: Falkenberger Chaussee, Neu-Hohenschönhausen, Lichtenberg, Berlin
+    coordinates:
+      lat: 52.566780
+      lng: 13.520583
+  time: 2024-09-04T21:40:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483882.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+    - stvg:
+        - 7
+    - stgb:
+        - 229
+    - tags:
+        - Verkehrsunfall
+        - Fahrerflucht
+        - Fußgänger
+        - Neu-Hohenschönhausen
+        - Zeugen gesucht
+
+- title: Mann soll Hitlergruß gezeigt haben - Festnahme
+  description: "Gestern wurde ein Mann in Neukölln festgenommen, der den Hitlergruß gezeigt haben soll. Nach derzeitigen Ermittlungsstand lief eine bisher unbekannt gebliebene Frau, die mit einer Burka bekleidet gewesen sein soll, gegen 20.30 Uhr durch die Erkstraße. Gemäß Angaben einer Zeugin und eines Zeugen soll der Mann ihr etwas hinterhergerufen und dabei den sogenannten Hitlergruß gezeigt haben. Sie machten eine in der Nähe befindliche Streifenbesatzung auf die Tat aufmerksam, die den Mann im Alter von 58 Jahren festnahm. Er gab an, keinen Hitlergruß gezeigt zu haben. Nach einer Identitätsfeststellung kam er wieder auf freien Fuß. Die weiteren Ermittlungen hat der Polizeiliche Staatsschutz des Landeskriminalamts Berlin übernommen."
+  icon: 🚨
+  location:
+    name: Erkstraße, Neukölln, Berlin
+    coordinates:
+      lat: 52.480262
+      lng: 13.437487
+  time: 2024-09-05T20:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483883.php
+  laws:
+    - stgb:
+        - 86a
+    - tags:
+        - Hitlergruß
+        - Festnahme
+        - Staatsschutz
+        - Beleidigung
+        - Ermittlungen
+
+- title: Autos in Brand
+  description: "Gestern Abend wurden Einsatzkräfte wegen einer Brandstiftung nach Neu-Hohenschönhausen alarmiert. Nach ersten Erkenntnissen soll gegen 22.30 Uhr ein Coupé auf einem Parkplatz an der Falkenberger Chaussee vollständig ausgebrannt sein. Die Flammen griffen zudem auf zwei danebenstehende Autos über und beschädigten darüber hinaus eine Laterne. Die Feuerwehr löschte die Brände, Personen wurden nicht verletzt. Die weiteren Ermittlungen hat ein Brandkommissariat des Landeskriminalamts übernommen."
+  icon: 🔥
+  location:
+    name: Falkenberger Chaussee, Neu-Hohenschönhausen, Berlin
+    coordinates:
+      lat: 52.566780
+      lng: 13.520583
+  time: 2024-09-05T22:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483884.php
+  laws:
+    - stgb:
+        - 306
+    - tags:
+        - Brandstiftung
+        - Autos
+        - Feuer
+        - Ermittlungen
+
+- title: Drei Fahrzeuge in Brand gesetzt
+  description: "Gestern Abend wurden Einsatzkräfte zu einer Brandstiftung an mehreren Autos alarmiert. Nach ersten Erkenntnissen soll ein 54-jähriger Zeuge gegen 20 Uhr drei brennende Fahrzeuge am Straßenrand des Friedrich-Olbricht-Damm bemerkt haben. Der Brand konnte vollständig gelöscht werden, Personen wurden nicht verletzt. Die weiteren Ermittlungen hat ein Brandkommissariat des Landeskriminalamts übernommen."
+  icon: 🔥
+  location:
+    name: Friedrich-Olbricht-Damm, Charlottenburg-Wilmersdorf, Berlin
+    coordinates:
+      lat: 52.530144
+      lng: 13.304383
+  time: 2024-09-04T20:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483885.php
+  laws:
+    - stgb:
+        - 306
+    - tags:
+        - Brandstiftung
+        - Fahrzeuge
+        - Ermittlungen
+
+- title: Nach schwerem Raub – Mann verletzt
+  description: "Gestern Abend wurde in Biesdorf ein Mann bei einem Raub verletzt. Nach bisherigen Ermittlungsstand und Aussagen von Zeuginnen und Zeugen saß der 34-Jährige in einem Auto und hielt am Fahrbahnrand im Heino-Schmieden-Weg. Plötzlich seien mindestens drei Männer an das Fahrzeug herangetreten, öffneten die Fahrertür und zogen den 34-Jährigen aus dem Wagen. Anschließend sollen sie auf ihn eingeschlagen und eingetreten haben. Der dritte Täter habe ihm mit einem unbekannten Gegenstand Schnittverletzungen am Oberschenkel und an der Hand zugefügt. Die Täter sollen im Anschluss seine Umhängetasche entwendet und anschließend die Flucht ergriffen haben. Alarmierte Rettungskräfte brachten den Verletzten zur stationären Aufnahme in ein Krankenhaus. Die weiteren Ermittlungen zu dem schweren Raub dauern an und werden von einem Fachkommissariat der Polizeidirektion 3 (Ost) geführt."
+  icon: 🕵️‍♂️
+  location:
+    name: Heino-Schmieden-Weg, Biesdorf, Marzahn-Hellersdorf, Berlin
+    coordinates:
+      lat: 52.514531
+      lng: 13.564323
+  time: 2024-09-04T20:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483886.php
+  laws:
+    - stgb:
+        - 249
+        - 224
+    - tags:
+        - Raub
+        - Verletzung
+        - Ermittlungen
+
+- title: Zwei Autofahrer nach Verkehrsunfall verletzt
+  description: "Gestern Abend wurden Einsatzkräfte wegen eines Verkehrsunfalls nach Schöneberg alarmiert. Nach ersten Erkenntnissen befuhr ein 44-Jähriger gegen 18 Uhr mit einem Auto die Martin-Luther-Straße in Richtung Hohenstaufenstraße. Als er an der dortigen Kreuzung rechts abbog, stieß er mit einem in derselben Richtung fahrenden Auto eines 21-Jährigen zusammen, der die rechte Busspur befuhr und laut Zeugin ebenfalls rechts abbiegen wollte. Der 44-Jährige kam zur stationären Behandlung seines Polytraumas in ein Krankenhaus. Rettungskräfte brachten auch den 21-Jährigen aufgrund von Schmerzen im Nackenbereich in eine Klinik. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 4 (Süd) übernommen."
+  icon: 🚗
+  location:
+    name: Martin-Luther-Straße, Schöneberg, Tempelhof-Schöneberg, Berlin
+    coordinates:
+      lat: 52.487921
+      lng: 13.346657
+  time: 2024-09-04T18:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483887.php
+  laws:
+    - stvo:
+        - 1
+        - 3
+        - 8
+    - stvg:
+        - 7
+    - tags:
+        - Verkehrsunfall
+        - Verletzung
+        - Ermittlungen
+
+- title: Mann nach Wohnungsbrand im Krankenhaus verstorben
+  description: "Der 54-Jährige, der zunächst aus der brennenden Wohnung gerettet und reanimiert werden konnte, ist heute im Krankenhaus verstorben. Die weiteren Ermittlungen zur fahrlässigen Brandstiftung dauern an."
+  icon: 🚒
+  location:
+    name: Metastraße, Rummelsburg, Lichtenberg, Berlin
+    coordinates:
+      lat: 52.503849
+      lng: 13.483626
+  time: 2024-09-04T17:45:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483888.php
+  laws:
+    - stgb:
+        - 306f
+    - tags:
+        - Wohnungsbrand
+        - Todesfall
+        - Brandstiftung
+        - Ermittlungen
+
+- title: Mann vom Dach geholt
+  description: "Die Polizei nahm gestern Morgen einen Mann in Friedrichshain fest, der auf einem Dach verfassungsfeindliche Parolen gerufen sowie den sogenannten Hitlergruß gezeigt haben soll. Gegen 7.30 Uhr hielt sich der Mann auf dem Dach an der Warschauer Brücke, angrenzend zum U-Bahnhof Warschauer Straße, auf. Eine Zeugin beobachtete und hörte die Taten des Mannes und alarmierte die Polizei. Der 44-Jährige wirkte zudem stark angetrunken und drohte von dem Plateau vier bis fünf Meter in die Tiefe zu stürzen. Mit Unterstützung der Feuerwehr begab sich ein Polizeibeamter auf das Dach und sprach den Mann an. Trotz einer Androhung des Einsatzes eines Distanz-Elektroimpulsgerätes zeigte er keine Reaktion. Der Polizist setzte das Gerät ein, woraufhin der Mann zu Boden ging und festgenommen wurde. Er kam zur psychiatrischen Begutachtung in ein Krankenhaus. Die Ermittlungen wegen Verwendens von Kennzeichen verfassungswidriger und terroristischer Organisationen dauern an."
+  icon: 🚨
+  location:
+    name: Warschauer Brücke, Friedrichshain, Berlin
+    coordinates:
+      lat: 52.505346
+      lng: 13.448097
+  time: 2024-09-04T07:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483889.php
+  laws:
+    - stgb:
+        - 86a
+    - tags:
+        - Hitlergruß
+        - Verfassungsfeindliche Parolen
+        - Festnahme
+        - Ermittlungen
+
+- title: Schwangere mit Messer bedroht
+  description: "In Neu-Hohenschönhausen wurde gestern Mittag ein Mann mit einem Messer verletzt. Dem ersten Erkenntnisstand nach folgte ein bislang Unbekannter gegen 12.40 Uhr einer 20-jährigen Frau in der Falkenberger Chaussee bis zur Tür ihrer Wohnung in einem Mehrfamilienhaus. Dort soll er sie mit einem Messer bedroht und Geld von ihr gefordert haben. Als die Frau erwähnt habe, dass sie schwanger sei, soll der Unbekannte ohne Beute davongelaufen sein. Nachdem die Bedrohte einer Bekannten von dem Vorfall erzählt hatte, begab sich deren 30-jähriger Lebensgefährte auf die Suche nach dem Tatverdächtigen und machte diesen aufgrund von Beschreibungen gegen 13.30 Uhr vor einem Imbiss in der Welsestraße ausfindig. Dort soll er den Mann auf den versuchten Raub angesprochen haben. Als dieser daraufhin habe davonrennen wollen, habe er ihn festhalten wollen, woraufhin ihn der Mann mit einem Messer an einer Hand verletzt habe. Der Angreifer flüchtete. Alarmierte Rettungskräfte brachten den 30-Jährigen zur stationären Behandlung in ein Krankenhaus. Die Ermittlungen wegen versuchten schweren Raubes und gefährlicher Körperverletzung führt ein Fachkommissariat der Polizeidirektion 3 (Ost)."
+  icon: 🔪
+  location:
+    name: Falkenberger Chaussee, Neu-Hohenschönhausen, Lichtenberg, Berlin
+    coordinates:
+      lat: 52.567458
+      lng: 13.517858
+  time: 2024-09-04T12:40:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483890.php
+  laws:
+    - stgb:
+        - 249
+        - 224
+    - tags:
+        - Bedrohung
+        - Messerangriff
+        - Raubversuch
+        - Ermittlungen
+
+- title: Scharfe Schusswaffe festgestellt
+  description: "Einsatzkräfte fanden vergangene Nacht in Neukölln in einem Auto eine scharfe Schusswaffe. Einsatzkräfte eines Polizeiabschnittes befanden sich gegen 23.45 Uhr wegen einer Verkehrsordnungswidrigkeit auf der Elsterstraße im Einsatz. Währenddessen fiel diesen ein Auto auf der Saalestraße auf, welches ein Durchfahrtverbot missachtete. Der Fahrer versuchte zu flüchten, wobei ein Polizist ausweichen musste, um nicht erfasst zu werden. Das Fahrzeug wurde leerstehend gefunden und eine scharfe Schusswaffe, Munition sowie andere Gegenstände wurden sichergestellt. Der 24-jährige Fahrer wurde zur erkennungsdienstlichen Behandlung gebracht und muss sich wegen des Verdachts des Fahrens ohne Fahrerlaubnis und des Verstoßes gegen das Waffengesetz verantworten."
+  icon: 🔫
+  location:
+    name: Elsterstraße, Neukölln, Berlin
+    coordinates:
+      lat: 52.471200
+      lng: 13.428500
+  time: 2024-09-03T23:45:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483891.php
+  laws:
+    - stgb:
+        - 52
+    - waffg:
+        - 52
+    - tags:
+        - Schusswaffe
+        - Verstoß Waffengesetz
+        - Flucht
+        - Ermittlungen
+
+- title: Festnahme nach Bedrohung mit Schreckschusswaffe
+  description: "Gestern Mittag wurde eine Frau in Charlottenburg-Nord festgenommen, die eine 32-Jährige von einem benachbarten Balkon aus mit einer Schreckschusswaffe bedroht haben soll. Die 51-Jährige hielt die Waffe in Richtung der 32-Jährigen und drohte zu schießen. Die Einsatzkräfte fanden die Waffe und Munition in der Wohnung der Verdächtigen, die zur psychiatrischen Begutachtung ins Krankenhaus gebracht wurde. Die Ermittlungen dauern an."
+  icon: 🚔
+  location:
+    name: Delpzeile, Charlottenburg-Nord, Berlin
+    coordinates:
+      lat: 52.546000
+      lng: 13.304000
+  time: 2024-09-03T12:20:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483892.php
+  laws:
+    - stgb:
+        - 241
+    - waffg:
+        - 52
+    - tags:
+        - Bedrohung
+        - Schreckschusswaffe
+        - Festnahme
+        - Ermittlungen
+
+- title: Radfahrer bei Verkehrsunfall verletzt
+  description: "Gestern Morgen ereignete sich in Mahlsdorf ein Verkehrsunfall, bei dem ein Radfahrer verletzt wurde. Eine 45-Jährige bog nach links in die Theodorstraße ab und übersah dabei einen von rechts kommenden 69-jährigen Radfahrer. Der Radfahrer stürzte, war kurze Zeit nicht ansprechbar und erlitt Verletzungen. Er wurde ins Krankenhaus gebracht. Ein Fachkommissariat für Verkehrsdelikte hat die Ermittlungen übernommen."
+  icon: 🚴‍♂️
+  location:
+    name: Theodorstraße, Mahlsdorf, Marzahn-Hellersdorf, Berlin
+    coordinates:
+      lat: 52.498800
+      lng: 13.605400
+  time: 2024-09-03T08:25:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483893.php
+  laws:
+    - stvo:
+        - 1
+        - 8
+    - stgb:
+        - 229
+    - tags:
+        - Verkehrsunfall
+        - Radfahrer
+        - Verletzung
+        - Ermittlungen
+
+- title: Fußgänger bei Unfall mit Straßenbahn verletzt
+  description: "Gestern Nachmittag kam es in Prenzlauer Berg zu einem Verkehrsunfall mit einer Straßenbahn, bei dem ein Fußgänger verletzt wurde. Ein 19-Jähriger wechselte die Fahrbahnseite und übersah dabei eine herannahende Straßenbahn. Trotz eingeleiteter Gefahrenbremsung kam es zum Zusammenstoß. Der Fußgänger erlitt mehrere Knochenbrüche und wurde ins Krankenhaus gebracht. Der Straßenbahnverkehr war für etwa anderthalb Stunden unterbrochen."
+  icon: 🚊
+  location:
+    name: Prenzlauer Allee, Prenzlauer Berg, Pankow, Berlin
+    coordinates:
+      lat: 52.544700
+      lng: 13.416700
+  time: 2024-09-03T15:45:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483894.php
+  laws:
+    - stvo:
+        - 25
+    - stgb:
+        - 229
+    - tags:
+        - Verkehrsunfall
+        - Fußgänger
+        - Straßenbahn
+        - Verletzung
+        - Ermittlungen
+
+- title: Festnahmen nach Raub bei angeblichem Date
+  description: "Wegen bandenmäßigen Raubes in Tateinheit mit gefährlicher Körperverletzung wurden Haftbefehle gegen vier Tatverdächtige erlassen. Die Beschuldigten sollen homosexuelle Männer über eine Dating-Plattform zu Treffen gelockt haben, um diese auszurauben. In einem Fall lockten sie einen 57-Jährigen zum U-Bahnhof Jungfernheide, griffen ihn an, raubten seine Wertsachen und warfen ihn in den Landwehrkanal. Die Ermittlungen zu möglichen weiteren Taten dauern an."
+  icon: 🕵️‍♂️
+  location:
+    name: U-Bahnhof Jungfernheide, Charlottenburg-Wilmersdorf, Berlin
+    coordinates:
+      lat: 52.530300
+      lng: 13.299500
+  time: 2024-08-29T00:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483895.php
+  laws:
+    - stgb:
+        - 249
+        - 224
+    - tags:
+        - Raub
+        - Dating-Plattform
+        - Gewalt
+        - Festnahmen
+        - Ermittlungen
+
+- title: Festnahme nach Raub
+  description: "Gestern Abend konnten Einsatzkräfte einen mutmaßlichen Räuber in Charlottenburg festnehmen. Gegen 22.35 Uhr soll eine 58-jährige Frau in einem Hausflur durch einen 39-jährigen Mann angesprochen worden sein, der ihr die Geldbörse entriss und flüchtete. Der Tatverdächtige wurde in der Nähe festgenommen. Die weiteren Ermittlungen laufen."
+  icon: 🚨
+  location:
+    name: Christstraße, Charlottenburg-Wilmersdorf, Berlin
+    coordinates:
+      lat: 52.512000
+      lng: 13.315000
+  time: 2024-09-03T22:35:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483896.php
+  laws:
+    - stgb:
+        - 249
+    - tags:
+        - Raub
+        - Festnahme
+        - Ermittlungen
+
+- title: Streit unter Jungen endet blutig
+  description: "Gestern Abend wurden Einsatzkräfte zu einer gefährlichen Körperverletzung nach Gesundbrunnen alarmiert. Nach ersten Erkenntnissen soll es gegen 18.15 Uhr in der Wollankstraße zu einem Streit zwischen einem 12- und einem 14-Jährigen gekommen sein. Beide sollen dabei Messer bei sich geführt haben. Der 14-Jährige habe den 12-Jährigen im Verlauf der Auseinandersetzung getreten und ihm einen Messerstich am Rücken zugefügt. Anschließend soll der 12-Jährige seinerseits mit einem Messer nach dem 14-Jährigen geworfen haben und geflüchtet sein. Beide Jungen wurden in ein Krankenhaus gebracht. Während der 12-Jährige zur weiteren Behandlung stationär verblieb, konnte der Ältere die Klinik nach der Behandlung wieder verlassen. Die weiteren Ermittlungen hat ein Fachkommissariat der Polizeidirektion 1 (Nord) übernommen."
+  icon: 🔪
+  location:
+    name: Wollankstraße, Gesundbrunnen, Mitte, Berlin
+    coordinates:
+      lat: 52.550600
+      lng: 13.387400
+  time: 2024-09-01T18:15:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483897.php
+  laws:
+    - stgb:
+        - 224
+    - tags:
+        - Körperverletzung
+        - Messerangriff
+        - Kinder
+        - Ermittlungen
+
+- title: Sachbeschädigung an einem Verlagsgebäude
+  description: "In der vergangenen Nacht kam es zu einer Sachbeschädigung an einem Verlagsgebäude in Kreuzberg. Gegen 0.10 Uhr bemerkte ein Sicherheitsdienstmitarbeiter einen Radfahrer vor dem Gebäude in der Axel-Springer-Straße und hörte kurz darauf Knallgeräusche. Der Unbekannte flüchtete, und am Haupteingang wurden rote Farbanhaftungen festgestellt. Der Polizeiliche Staatsschutz hat die weiteren Ermittlungen übernommen."
+  icon: 🚨
+  location:
+    name: Axel-Springer-Straße, Kreuzberg, Berlin
+    coordinates:
+      lat: 52.511200
+      lng: 13.401200
+  time: 2024-09-02T00:10:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483898.php
+  laws:
+    - stgb:
+        - 303
+    - tags:
+        - Sachbeschädigung
+        - Staatsschutz
+        - Farbanhaftungen
+        - Ermittlungen
+
+- title: Kind bei Verkehrsunfall verletzt
+  description: "Gestern Mittag kam es in Schmargendorf zu einem Verkehrsunfall. Ein 13-Jähriger fuhr mit einem E-Scooter auf die Fahrbahn der Helene-Jacobs-Straße und stieß mit einem Auto zusammen. Der Junge erlitt Bein- und Kopfverletzungen. Nach dem Unfall schlug der 17-jährige Bruder des verletzten Jungen den Autofahrer und bedrohte ihn mit einem Messer. Der Autofahrer erlitt ein Hämatom am Auge. Der 17-Jährige wurde festgenommen und später in die Obhut seiner Erziehungsberechtigten entlassen. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 2 (West) übernommen."
+  icon: 🚦
+  location:
+    name: Helene-Jacobs-Straße, Schmargendorf, Berlin
+    coordinates:
+      lat: 52.488500
+      lng: 13.298400
+  time: 2024-09-02T13:45:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483899.php
+  laws:
+    - stgb:
+        - 223
+        - 240
+    - tags:
+        - Verkehrsunfall
+        - Verletzung
+        - E-Scooter
+        - Messerangriff
+        - Ermittlungen
+
+- title: Motorradfahrerin beim Verkehrsunfall verletzt
+  description: "Eine Autofahrerin hat gestern Abend beim Linksabbiegen in Grünau offenbar eine Motorradfahrerin übersehen. Nach bisherigen Erkenntnissen befuhr die 59-Jährige die Straße Adlergestell und bog links in die Wassersportallee ab, wobei sie die entgegenkommende Motorradfahrerin übersah. Beide Fahrzeuge stießen zusammen, und die Motorradfahrerin wurde von ihrem Fahrzeug geschleudert und schwer verletzt. Die Autofahrerin erlitt Nacken- und Rückenschmerzen. Die weiteren Ermittlungen führt das zuständige Fachkommissariat der Polizeidirektion 3 (Ost)."
+  icon: 🏍️
+  location:
+    name: Adlergestell, Grünau, Treptow-Köpenick, Berlin
+    coordinates:
+      lat: 52.422800
+      lng: 13.582000
+  time: 2024-09-02T20:30:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483900.php
+  laws:
+    - stvo:
+        - 8
+    - tags:
+        - Verkehrsunfall
+        - Motorrad
+        - Verletzung
+        - Ermittlungen
+
+- title: Transfeindliche Beleidigung
+  description: "Gestern Nachmittag wurden Einsatzkräfte zu einer transfeindlichen Beleidigung nach Neukölln alarmiert. Nach ersten Erkenntnissen soll ein 16-Jähriger eine 44-jährige Transperson in der Elsenstraße mehrfach beleidigt haben. Der Jugendliche wurde festgenommen und zur erkennungsdienstlichen Behandlung in einen Polizeigewahrsam gebracht. Die weiteren Ermittlungen hat der Polizeiliche Staatsschutz übernommen."
+  icon: 🏳️‍⚧️
+  location:
+    name: Elsenstraße, Neukölln, Berlin
+    coordinates:
+      lat: 52.476200
+      lng: 13.457300
+  time: 2024-09-02T15:15:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483901.php
+  laws:
+    - stgb:
+        - 185
+    - tags:
+        - Beleidigung
+        - Transfeindlichkeit
+        - Staatsschutz
+        - Ermittlungen
