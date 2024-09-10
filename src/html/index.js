@@ -20,6 +20,12 @@ async function initMap() {
     },
   });
 
+  // Default range.
+  const range = {
+    from: new Date(new Date().setDate(new Date().getDate() - 7)),
+    to: new Date(new Date().setDate(new Date().getDate() + 1)),
+  };
+
   const dateRangeDiv = document.createElement("div");
   dateRangeDiv.innerHTML = `
     <input type="text" id="date-range" placeholder="Zeitraum auswählen" class="form-control">
@@ -32,20 +38,24 @@ async function initMap() {
     onChange: function (selectedDates, dateStr, instance) {
       // Handle date range selection
       if (selectedDates.length === 2) {
-        const startDate = selectedDates[0];
-        const endDate = selectedDates[1];
-        console.log("Selected Date Range:", startDate, endDate);
-        // Integrate this date range with map functionality here
+        range.from = selectedDates[0];
+        range.to = selectedDates[1];
+        console.log(range);
       }
     },
   });
-
   // Add the date range picker to the map as a control
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(dateRangeDiv);
 
+  // create new list filteredCases by looping through cases and filtering by date
+  const filteredCases = cases.filter((c) => {
+    const date = new Date(c.time);
+    return date >= range.from && date <= range.to;
+  });
+
   let markers = [];
   deleteAllMarkers(markers);
-  setMarkers(map, cases, markers);
+  setMarkers(map, filteredCases, markers);
 }
 
 function setMarkers(map, cases, markers) {
