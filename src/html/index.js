@@ -32,8 +32,6 @@ async function initMap() {
   });
   // loop over cases, add markers to map
   cases.forEach((c) => {
-    console.log(c.location.coordinates.lat, c.location.coordinates.lng);
-
     const date = new Date(c.time);
     const formattedDate = date.toLocaleDateString("de-DE", {
       day: "numeric",
