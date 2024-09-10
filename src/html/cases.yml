@@ -498,8 +498,8 @@
   location:
     name: Heino-Schmieden-Weg, Biesdorf, Marzahn-Hellersdorf, Berlin
     coordinates:
-      lat: 52.514531
-      lng: 13.564323
+      lat: 52.50827733171987
+      lng: 13.556793976722492
   time: 2024-09-04T20:30:00+02:00
   source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482222.php
   laws:
