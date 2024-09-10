@@ -1,4 +1,19 @@
 async function initMap() {
+  // Initialize Flatpickr for date range selection
+  flatpickr("#datePicker", {
+    mode: "range",
+    dateFormat: "Y-m-d",
+    onChange: function (selectedDates, dateStr, instance) {
+      // Handle date range selection
+      if (selectedDates.length === 2) {
+        const startDate = selectedDates[0];
+        const endDate = selectedDates[1];
+        console.log("Selected Date Range:", startDate, endDate);
+        // You can integrate this date range with map functionality here
+      }
+    },
+  });
+
   const response = await fetch("cases.yml");
   if (!response.ok) {
     throw new Error("Network response was not ok " + response.statusText);

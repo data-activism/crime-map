@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Full-screen Google Map with Pin</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"
+    />
     <style>
       body,
       html {
@@ -18,7 +22,11 @@
     </style>
   </head>
   <body>
+    <div id="date-range">
+      <input type="text" id="datePicker" placeholder="Select Date Range" />
+    </div>
     <div id="map"></div>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"
       integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q=="
