@@ -46,7 +46,10 @@ async function initMap() {
   });
   // Add the date range picker to the map as a control
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(dateRangeDiv);
+  updateMarkers(map, cases, range);
+}
 
+function updateMarkers(map, cases, range) {
   // create new list filteredCases by looping through cases and filtering by date
   const filteredCases = cases.filter((c) => {
     const date = new Date(c.time);
