@@ -656,15 +656,15 @@
         - Ermittlungen
 
 - title: Fußgänger bei Unfall mit Straßenbahn verletzt
-  description: "Gestern Nachmittag kam es in Prenzlauer Berg zu einem Verkehrsunfall mit einer Straßenbahn, bei dem ein Fußgänger verletzt wurde. Ein 19-Jähriger wechselte die Fahrbahnseite und übersah dabei eine herannahende Straßenbahn. Trotz eingeleiteter Gefahrenbremsung kam es zum Zusammenstoß. Der Fußgänger erlitt mehrere Knochenbrüche und wurde ins Krankenhaus gebracht. Der Straßenbahnverkehr war für etwa anderthalb Stunden unterbrochen."
+  description: "Gestern Nachmittag kam es zu einem Verkehrsunfall mit einer Straßenbahn in Prenzlauer Berg, bei dem ein Fußgänger verletzt wurde. Nach den bisherigen Ermittlungen wechselte ein 19-Jähriger gegen 15.45 Uhr die Fahrbahnseite der Prenzlauer Allee in Richtung Meyerheimstraße. Dabei überquerte er auch die Gleise der Straßenbahn und übersah offenbar die herannahende Straßenbahn der Linie M2, die die Prenzlauer Allee in Richtung Ostseestraße befuhr. Trotz eingeleiteter Gefahrenbremsung und akustischem Warnsignal der 44-jährigen Tramführerin kam es zum Zusammenstoß. Alarmierte Rettungskräfte brachten den 19-Jährigen mit mehreren Knochenbrüchen zur stationären Aufnahme und Behandlung in ein Krankenhaus. Der Straßenbahnverkehr war von circa 15.45 Uhr bis 17.15 Uhr in beiden Richtungen unterbrochen. Die weiteren Ermittlungen zum Unfallhergang hat das für Verkehrsdelikte zuständige Fachkommissariat der Polizeidirektion 1 (Nord) übernommen."
   icon: 🚊
   location:
-    name: Prenzlauer Allee, Prenzlauer Berg, Pankow, Berlin
+    name: Prenzlauer Allee / Meyerheimstraße, Prenzlauer Berg, Pankow, Berlin
     coordinates:
-      lat: 52.544700
-      lng: 13.416700
+      lat: 52.549237547932115
+      lng: 13.42925092617149
   time: 2024-09-03T15:45:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481669.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483894.php
   laws:
     - stvo:
         - 25
@@ -675,7 +675,6 @@
         - Fußgänger
         - Straßenbahn
         - Verletzung
-        - Ermittlungen
 
 - title: Festnahmen nach Raub bei angeblichem Date
   description: "Wegen bandenmäßigen Raubes in Tateinheit mit gefährlicher Körperverletzung wurden Haftbefehle gegen vier Tatverdächtige erlassen. Die Beschuldigten sollen homosexuelle Männer über eine Dating-Plattform zu Treffen gelockt haben, um diese auszurauben. In einem Fall lockten sie einen 57-Jährigen zum U-Bahnhof Jungfernheide, griffen ihn an, raubten seine Wertsachen und warfen ihn in den Landwehrkanal. Die Ermittlungen zu möglichen weiteren Taten dauern an."
@@ -704,8 +703,8 @@
   location:
     name: Christstraße, Charlottenburg-Wilmersdorf, Berlin
     coordinates:
-      lat: 52.512000
-      lng: 13.315000
+      lat: 52.51681293391098
+      lng: 13.290498671163872
   time: 2024-09-03T22:35:00+02:00
   source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481662.php
   laws:
