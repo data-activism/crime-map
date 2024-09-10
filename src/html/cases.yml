@@ -28,7 +28,7 @@
       lat: 52.469970694344454
       lng: 13.371935071163875
   time: 2024-09-08T21:40:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483859.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483659.php
   laws:
     - stvo:
         - 1
@@ -58,7 +58,7 @@
       lat: 52.537275
       lng: 13.570742
   time: 2024-09-09T00:50:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483860.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483588.php
   laws:
     - stgb:
         - 306
@@ -71,7 +71,7 @@
       lat: 52.485052
       lng: 13.448601
   time: 2024-09-09T01:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483861.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483588.php
   laws:
     - stgb:
         - 306
@@ -84,7 +84,7 @@
       lat: 52.535445
       lng: 13.582938
   time: 2024-09-09T03:10:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483862.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483588.php
   laws:
     - stgb:
         - 306
@@ -97,7 +97,7 @@
       lat: 52.49313241428619
       lng: 13.444444113491624
   time: 2024-09-08T18:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483863.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483572.php
   laws:
     - stgb:
         - 185
@@ -113,7 +113,7 @@
       lat: 52.437522
       lng: 13.305678
   time: 2024-09-08T14:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483864.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483520.php
   laws:
     - stvo:
         - 1
@@ -132,7 +132,7 @@
       lat: 52.514581
       lng: 13.403065
   time: 2024-09-08T23:10:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483865.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483453.php
   laws:
     - stgb:
         - 306
@@ -145,7 +145,7 @@
       lat: 52.539168
       lng: 13.200083
   time: 2024-09-08T17:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483866.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483409.php
   laws:
     - stgb:
         - 306
@@ -158,7 +158,7 @@
       lat: 52.50736982523643
       lng: 13.43563248650837
   time: 2024-09-08T03:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483867.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483335.php
   laws:
     - stgb:
         - 249
@@ -172,7 +172,7 @@
       lat: 52.499016
       lng: 13.421540
   time: 2024-09-08T02:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483868.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483333.php
   laws:
     - stgb:
         - 185
@@ -189,7 +189,7 @@
       lat: 52.540518
       lng: 13.412417
   time: 2024-09-07T21:10:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483869.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483332.php
   laws:
     - stgb:
         - 125
@@ -203,7 +203,7 @@
       lat: 52.433722
       lng: 13.474926
   time: 2024-09-07T14:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483870.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483331.php
   laws:
     - stvo:
         - 1
@@ -222,7 +222,7 @@
       lat: 52.452222
       lng: 13.624444
   time: 2024-09-07T14:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483871.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483330.php
   laws:
     - stvo:
         - 1
@@ -241,7 +241,7 @@
       lat: 52.557711
       lng: 13.403018
   time: 2024-09-07T05:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483872.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483321.php
   laws:
     - stvo:
         - 1
@@ -263,7 +263,7 @@
       lat: 52.503144
       lng: 13.469313
   time: 2024-09-07T05:50:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483873.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483320.php
   laws:
     - stgb:
         - 224
@@ -277,7 +277,7 @@
       lat: 52.523551
       lng: 13.188672
   time: 2024-09-07T03:50:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483874.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483314.php
   laws:
     - stgb:
         - 212
@@ -290,7 +290,7 @@
       lat: 52.485616
       lng: 13.374198
   time: 2024-09-06T22:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483875.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483313.php
   laws:
     - stgb:
         - 223
@@ -306,7 +306,7 @@
       lat: 52.510242
       lng: 13.274604
   time: 2024-09-06T04:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483876.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483296.php
   laws:
     - stvo:
         - 1
@@ -321,7 +321,7 @@
       lat: 52.511278
       lng: 13.454167
   time: 2024-09-06T23:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483877.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483295.php
   laws:
     - stgb:
         - 113
@@ -338,7 +338,7 @@
       lat: 52.484642
       lng: 13.400465
   time: 2024-09-06T12:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483878.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483176.php
   laws:
     - stgb:
         - 223
@@ -353,7 +353,7 @@
       lat: 52.434400
       lng: 13.266600
   time: 2024-09-06T13:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483879.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483086.php
   laws:
     - stvo:
         - 1
@@ -368,7 +368,7 @@
       lat: 52.501919
       lng: 13.450697
   time: 2024-09-06T00:10:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483880.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483071.php
   laws:
     - stgb:
         - 249
@@ -382,7 +382,7 @@
       lat: 52.571448
       lng: 13.354462
   time: 2024-09-06T08:40:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483881.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483033.php
   laws:
     - stvo:
         - 1
@@ -401,7 +401,7 @@
       lat: 52.566780
       lng: 13.520583
   time: 2024-09-04T21:40:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483882.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482858.php
   laws:
     - stvo:
         - 1
@@ -427,7 +427,7 @@
       lat: 52.480262
       lng: 13.437487
   time: 2024-09-05T20:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483883.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482688.php
   laws:
     - stgb:
         - 86a
@@ -437,7 +437,24 @@
         - Staatsschutz
         - Beleidigung
         - Ermittlungen
-
+- title: Jugendliche verletzt Mann mit Messer
+  description: "In Gesundbrunnen ist gestern Abend ein Mann von einer Jugendlichen mit einem Messer verletzt worden. Dem bisherigen Ermittlungsstand zufolge lief der 27-Jährige gegen 20 Uhr auf dem Gehweg der Pankstraße in Richtung Wiesenstraße, als er vor dem Gebäude des Polizeiabschnitts 18 einen Schlag im Bereich der Schulter spürte. Beim Umdrehen sah er eine Jugendliche hinter sich, die gerade ein Messer zu Boden warf. Die 14-jährige Angreiferin begab sich umgehend zum Polizeiabschnitt, wo sie festgenommen wurde. Der Mann wurde nach einer Erstversorgung durch Polizeikräfte zur weiteren Behandlung seiner Stichverletzung in ein Krankenhaus gebracht und dort stationär aufgenommen. Lebensgefahr soll nicht bestehen. Die Tatverdächtige kam zur psychiatrischen Begutachtung in ein Krankenhaus und verblieb dort stationär. Das Messer wurde als mutmaßliches Tatmittel sichergestellt. Die Ermittlungen zu der gefährlichen Körperverletzung dauern an."
+  icon: 🔪
+  location:
+    name: Pankstraße, Gesundbrunnen, Mitte, Berlin
+    coordinates:
+      lat: 52.548700
+      lng: 13.389300
+  time: 2024-09-04T20:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483902.php
+  laws:
+    - stgb:
+        - 224
+    - tags:
+        - Körperverletzung
+        - Messerangriff
+        - Jugendliche
+        - Ermittlungen
 - title: Autos in Brand
   description: "Gestern Abend wurden Einsatzkräfte wegen einer Brandstiftung nach Neu-Hohenschönhausen alarmiert. Nach ersten Erkenntnissen soll gegen 22.30 Uhr ein Coupé auf einem Parkplatz an der Falkenberger Chaussee vollständig ausgebrannt sein. Die Flammen griffen zudem auf zwei danebenstehende Autos über und beschädigten darüber hinaus eine Laterne. Die Feuerwehr löschte die Brände, Personen wurden nicht verletzt. Die weiteren Ermittlungen hat ein Brandkommissariat des Landeskriminalamts übernommen."
   icon: 🔥
@@ -447,7 +464,7 @@
       lat: 52.566780
       lng: 13.520583
   time: 2024-09-05T22:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483884.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482375.php
   laws:
     - stgb:
         - 306
@@ -466,7 +483,7 @@
       lat: 52.530144
       lng: 13.304383
   time: 2024-09-04T20:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483885.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482228.php
   laws:
     - stgb:
         - 306
@@ -484,7 +501,7 @@
       lat: 52.514531
       lng: 13.564323
   time: 2024-09-04T20:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483886.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482222.php
   laws:
     - stgb:
         - 249
@@ -503,7 +520,7 @@
       lat: 52.487921
       lng: 13.346657
   time: 2024-09-04T18:00:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483887.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482140.php
   laws:
     - stvo:
         - 1
@@ -525,7 +542,7 @@
       lat: 52.503849
       lng: 13.483626
   time: 2024-09-04T17:45:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483888.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482124.php
   laws:
     - stgb:
         - 306f
@@ -544,7 +561,7 @@
       lat: 52.505346
       lng: 13.448097
   time: 2024-09-04T07:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483889.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481970.php
   laws:
     - stgb:
         - 86a
@@ -563,7 +580,7 @@
       lat: 52.567458
       lng: 13.517858
   time: 2024-09-04T12:40:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483890.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481962.php
   laws:
     - stgb:
         - 249
@@ -583,7 +600,7 @@
       lat: 52.471200
       lng: 13.428500
   time: 2024-09-03T23:45:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483891.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481738.php
   laws:
     - stgb:
         - 52
@@ -604,7 +621,7 @@
       lat: 52.546000
       lng: 13.304000
   time: 2024-09-03T12:20:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483892.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481726.php
   laws:
     - stgb:
         - 241
@@ -625,7 +642,7 @@
       lat: 52.498800
       lng: 13.605400
   time: 2024-09-03T08:25:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483893.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481674.php
   laws:
     - stvo:
         - 1
@@ -647,7 +664,7 @@
       lat: 52.544700
       lng: 13.416700
   time: 2024-09-03T15:45:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483894.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481669.php
   laws:
     - stvo:
         - 25
@@ -669,7 +686,7 @@
       lat: 52.530300
       lng: 13.299500
   time: 2024-08-29T00:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483895.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481666.php
   laws:
     - stgb:
         - 249
@@ -690,7 +707,7 @@
       lat: 52.512000
       lng: 13.315000
   time: 2024-09-03T22:35:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483896.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481662.php
   laws:
     - stgb:
         - 249
@@ -708,7 +725,7 @@
       lat: 52.550600
       lng: 13.387400
   time: 2024-09-01T18:15:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483897.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481226.php
   laws:
     - stgb:
         - 224
@@ -727,7 +744,7 @@
       lat: 52.511200
       lng: 13.401200
   time: 2024-09-02T00:10:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483898.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481212.php
   laws:
     - stgb:
         - 303
@@ -746,7 +763,7 @@
       lat: 52.488500
       lng: 13.298400
   time: 2024-09-02T13:45:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483899.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481223.php
   laws:
     - stgb:
         - 223
@@ -767,7 +784,7 @@
       lat: 52.422800
       lng: 13.582000
   time: 2024-09-02T20:30:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483900.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481214.php
   laws:
     - stvo:
         - 8
@@ -786,7 +803,7 @@
       lat: 52.476200
       lng: 13.457300
   time: 2024-09-02T15:15:00+02:00
-  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483901.php
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1481079.php
   laws:
     - stgb:
         - 185
