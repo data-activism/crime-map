@@ -7,6 +7,7 @@
       lat: 52.56720833311814
       lng: 13.346614128836125
   time: 2024-09-09T07:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483856.php
   laws:
     - stvo:
         - 1
