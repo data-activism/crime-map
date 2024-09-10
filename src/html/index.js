@@ -21,10 +21,8 @@ async function initMap() {
 
     const infowindow = new google.maps.InfoWindow({
       content:
-        `<h4>${c.title}</h4>` +
-        "<div>" +
-        `<p><a href="${c.source}" target="_blank">Quelle</a></p>` +
-        "</div>",
+        `<h4><a href="${c.source}" target="_blank">${c.title}</a></h4>` +
+        `<p>${c.description}</p>`,
     });
 
     const marker = new google.maps.Marker({
