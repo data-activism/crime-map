@@ -19,17 +19,12 @@ async function initMap() {
   cases.forEach((c) => {
     console.log(c.location.coordinates.lat, c.location.coordinates.lng);
 
-    const contentString =
-      '<div id="content">' +
-      `<h1 id="firstHeading" class="firstHeading" style="font-weight: bold;">${c.title}</h1>` +
-      '<div id="bodyContent">' +
-      `<p><a href="${c.source}" target="_blank">Quelle</a></p>` +
-      "</div>" +
-      "</div>";
-
     const infowindow = new google.maps.InfoWindow({
-      content: contentString,
-      ariaLabel: "Location Information",
+      content:
+        `<h4>${c.title}</h4>` +
+        "<div>" +
+        `<p><a href="${c.source}" target="_blank">Quelle</a></p>` +
+        "</div>",
     });
 
     const marker = new google.maps.Marker({
