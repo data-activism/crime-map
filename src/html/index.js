@@ -29,6 +29,10 @@ async function initMap() {
       lng: 13.408333,
     },
     zoom: 11,
+    mapTypeControlOptions: {
+      style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      position: google.maps.ControlPosition.BOTTOM_LEFT,
+    },
   });
   // loop over cases, add markers to map
   cases.forEach((c) => {
