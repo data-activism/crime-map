@@ -1,3 +1,5 @@
+let markers = [];
+
 async function initMap() {
   const response = await fetch("cases.yml");
   if (!response.ok) {
@@ -40,7 +42,9 @@ async function initMap() {
       if (selectedDates.length === 2) {
         range.from = selectedDates[0];
         range.to = selectedDates[1];
-        console.log(range);
+        // set selectedDates[1] +1 day
+        range.to.setDate(range.to.getDate() + 1);
+        updateMarkers(map, cases, range);
       }
     },
   });
@@ -55,13 +59,11 @@ function updateMarkers(map, cases, range) {
     const date = new Date(c.time);
     return date >= range.from && date <= range.to;
   });
-
-  let markers = [];
-  deleteAllMarkers(markers);
-  setMarkers(map, filteredCases, markers);
+  deleteAllMarkers();
+  setMarkers(map, filteredCases);
 }
 
-function setMarkers(map, cases, markers) {
+function setMarkers(map, cases) {
   cases.forEach((c) => {
     const date = new Date(c.time);
     const formattedDate = date.toLocaleDateString("de-DE", {
@@ -105,7 +107,7 @@ function setMarkers(map, cases, markers) {
   });
 }
 
-function deleteAllMarkers(markers) {
+function deleteAllMarkers() {
   for (let i = 0; i < markers.length; i++) {
     markers[i].setMap(null); // Remove marker from the map
   }
