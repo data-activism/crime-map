@@ -238,8 +238,8 @@
   location:
     name: Kreuzung Maximilianstraße/Brixener Straße, Pankow, Berlin
     coordinates:
-      lat: 52.557711
-      lng: 13.403018
+      lat: 52.56137113261162
+      lng: 13.407164542327749
   time: 2024-09-07T05:00:00+02:00
   source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1483321.php
   laws:
