@@ -43,7 +43,10 @@ async function initMap() {
   // Add the date range picker to the map as a control
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(dateRangeDiv);
 
-  // loop over cases, add markers to map
+  setMarkers(map, cases);
+}
+
+function setMarkers(map, cases) {
   cases.forEach((c) => {
     const date = new Date(c.time);
     const formattedDate = date.toLocaleDateString("de-DE", {
