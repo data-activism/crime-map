@@ -811,3 +811,162 @@
         - Transfeindlichkeit
         - Staatsschutz
         - Ermittlungen
+
+- title: Verletzter Mann nach Schussabgabe
+  description: "In der vergangenen Nacht wurde ein junger Mann in Gesundbrunnen verletzt. Nach bisherigen Erkenntnissen alarmierten mehrere Personen gegen 22.20 Uhr die Polizei in die Stettiner Straße, nachdem sie Schüsse gehört hatten. Polizeikräfte trafen am Ort ein und entdeckten in der Nähe einen 19-Jährigen, der eine Schussverletzung an einem Fuß aufwies. Rettungskräfte brachten den Verletzten in ein Krankenhaus, in dem er stationär aufgenommen wurde. Im Rahmen der Ermittlungen nahmen Polizeikräfte einen 20-Jährigen fest. Die Ermittlungen der Kriminalpolizei, auch zum Tatverdacht gegen den Festgenommenen, dauern an."
+  icon: 🔫
+  location:
+    name: Stettiner Straße, Gesundbrunnen, Mitte, Berlin
+    coordinates:
+      lat: 52.55342
+      lng: 13.38625
+  time: 2024-09-09T22:20:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484070.php
+  laws:
+    - stgb:
+        - 224
+        - 227
+    - tags:
+        - Schusswaffe
+        - Verletzung
+        - Festnahme
+        - Ermittlungen
+
+- title: Mehrere Autos im Parkhaus in Brand
+  description: "Gestern Abend wurden Einsatzkräfte zu einem Brand in einem Parkhaus in Neukölln alarmiert. Nach ersten Erkenntnissen bemerkte eine Autofahrerin gegen 18 Uhr das Feuer an dem Wagen im Parkhaus eines Einkaufszentrums in der Karl-Marx-Straße und alarmierte die Feuerwehr. Die Flammen griffen auf mehrere andere Fahrzeuge über, weitere Fahrzeuge wurden durch Hitzeeinwirkung in Mitleidenschaft gezogen. Insgesamt sollen mindestens zwölf Fahrzeuge beschädigt worden sein. Die Feuerwehr löschte die Flammen. Personen wurden nicht verletzt. Während der Dauer der Löscharbeiten und der polizeilichen Maßnahmen war die Flughafenstraße zwischen Hermannstraße und Karl-Marx-Straße bis etwa 21.40 Uhr gesperrt. Die weiteren Ermittlungen zum Verdacht der schweren Brandstiftung hat ein Brandkommissariat des Landeskriminalamts Berlin übernommen."
+  icon: 🔥
+  location:
+    name: Karl-Marx-Straße, Neukölln, Berlin
+    coordinates:
+      lat: 52.48217
+      lng: 13.43301
+  time: 2024-09-09T18:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484073.php
+  laws:
+    - stgb:
+        - 306
+    - tags:
+        - Brandstiftung
+        - Parkhaus
+        - Fahrzeuge
+        - Ermittlungen
+
+- title: Motorradfahrer bei Verkehrsunfall verletzt
+  description: "Gestern Morgen wurden Einsatzkräfte zu einem Verkehrsunfall nach Spandau alarmiert. Nach ersten Erkenntnissen befuhr eine 38-Jährige gegen 6.20 Uhr mit einem Opel die Seegefelder Straße in Richtung Altstädter Ring. Beim Linksabbiegen in die Galenstraße soll sie einen entgegenkommenden, 59-jährigen Motorradfahrer, der mit einer Kawasaki in der Seegefelder Straße in Richtung Zeppelinstraße unterwegs war, übersehen haben und fuhr diesen an. Der Zweiradfahrer stürzte in der Folge und erlitt Verletzungen am Kopf, am Oberkörper und an den Beinen. Er wurde zur stationären Behandlung in ein Krankenhaus gebracht. Die Autofahrerin zog sich eine Verletzung am Hals zu und wollte sich eigenständig in ärztliche Behandlung begeben. Im Nachgang wurde festgestellt, dass der Motorradfahrer über keine gültige Fahrerlaubnis verfügt. Die weiteren Ermittlungen hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 2 (West) übernommen."
+  icon: 🏍️
+  location:
+    name: Seegefelder Straße, Spandau, Berlin
+    coordinates:
+      lat: 52.53493
+      lng: 13.1987
+  time: 2024-09-09T06:20:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484082.php
+  laws:
+    - stvo:
+        - 1
+        - 8
+    - tags:
+        - Verkehrsunfall
+        - Motorrad
+        - Verletzung
+        - Fahrerlaubnis
+        - Ermittlungen
+
+- title: Verletzter Leichtkraftradfahrer
+  description: "Gestern Nachmittag wurde ein Leichtkraftradfahrer bei einem Verkehrsunfall in Wedding verletzt. Den bisherigen Erkenntnissen nach fuhr ein 45-Jähriger gegen 14.15 Uhr mit seinem VW von einem Grundstück in der Müllerstraße in den Fließverkehr ein und setzte seine Fahrt im linken Fahrstreifen fort. Dabei stieß er mit dem im linken Fahrstreifen fahrenden Zweiradfahrer zusammen, der mit seiner Piaggio die Müllerstraße in Richtung Türkenstraße befuhr. In der Folge stürzte der ebenfalls 45-Jährige und erlitt Bein-, Arm- sowie Rumpfverletzungen. Alarmierte Rettungskräfte brachten ihn in ein Krankenhaus, in dem er stationär aufgenommen wurde. Der Autofahrer sowie die weiteren Insassen des Fahrzeugs blieben unverletzt. Die Ermittlungen zum Unfall hat ein Fachkommissariat für Verkehrsdelikte der Polizeidirektion 1 (Nord) übernommen."
+  icon: 🛵
+  location:
+    name: Müllerstraße, Wedding, Mitte, Berlin
+    coordinates:
+      lat: 52.55326
+      lng: 13.3472
+  time: 2024-09-09T14:15:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484109.php
+  laws:
+    - stvo:
+        - 1
+    - tags:
+        - Verkehrsunfall
+        - Leichtkraftrad
+        - Verletzung
+        - Ermittlungen
+
+- title: Fahrzeug gestohlen – Autofahrer flüchtete
+  description: "Einsatzkräfte der Polizeien Berlin und Brandenburg wollten vergangene Nacht ein Auto und dessen Fahrer verkehrsrechtlich überprüfen. Kurz vor 2 Uhr fiel Einsatzkräften eines Polizeiabschnittes der Polizei Berlin auf der Landsberger Allee ein Nissan auf, der in Richtung Hönow unterwegs war. Alle Anhaltesignale missachtend beschleunigte der Fahrer den Wagen und flüchtete vor der Verkehrsüberprüfung, zu der zwischenzeitlich Einsatzkräfte der Polizeidirektion Ost der Polizei Brandenburg hinzugezogen worden waren, auf die B 158 und später auf die L 312. In der Ortslage Birkholz streifte der flüchtige Fahrer mit dem Wagen zunächst eine Laterne und kollidierte kurz darauf mit einem Grundstückstor. Der bislang noch unbekannte Fahrer stieg aus dem Wagen aus und flüchtete zu Fuß weiter. Eine sofortige Absuche der Umgebung, auch mit einem Hubschrauber, verlief erfolglos. Ermittlungen ergaben, dass der Wagen zuvor in Berlin-Hellersdorf gestohlen worden war. Dessen Besitzer hatte den Diebstahl noch nicht bemerkt. Die Einsatzkräfte der Polizei Brandenburg stellten den Wagen sicher. Die Ermittlungen zum besonders schweren Diebstahl übernahm das zuständige Fachkommissariat der Polizei Berlin. Durch den Unfall entstanden an dem Grundstückstor und der Laterne erheblicher Sachschaden."
+  icon: 🚔
+  location:
+    name: Landsberger Allee, Marzahn-Hellersdorf, Berlin
+    coordinates:
+      lat: 52.54404
+      lng: 13.55416
+  time: 2024-09-09T02:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484131.php
+  laws:
+    - stgb:
+        - 243
+    - tags:
+        - Fahrzeugdiebstahl
+        - Fahrerflucht
+        - Verkehrsunfall
+        - Ermittlungen
+
+- title: Frau mit Messer angegriffen
+  description: "In Tegel wurde eine Frau gestern Morgen von ihrem Ehemann mit einem Messer verletzt. Bisherigen Ermittlungen und Zeugenangaben zufolge brachte die 29-Jährige kurz vor 8 Uhr in der Oeserstraße die beiden gemeinsamen, fünf und sechs Jahre alten Söhne zur Kindertagesstätte, als sie von dem 51-Jährigen unvermittelt mit einem Messer angegriffen wurde. Die Frau erlitt dadurch Verletzungen am Kopf und an einer Hand. Anwesende Passantinnen und Passanten versorgten die Frau und riefen die Polizei. Rettungskräfte brachten sie zur stationären Behandlung in ein Krankenhaus, in dem sie operiert wurde. Einsatzkräfte nahmen den Mann noch am Tatort fest und brachten ihn in einen Gewahrsam. Er soll im Laufe des heutigen Tages zum Erlass eines Haftbefehls einem Ermittlungsrichter vorgeführt werden. Am Tatort fanden die Einsatzkräfte ein Messer, das als mutmaßliches Tatmittel sichergestellt wurde. Beide Kinder wurden zur vorübergehenden Betreuung an Verwandte übergeben. Die Ermittlungen zu der gefährlichen Körperverletzung im Rahmen der häuslichen Gewalt dauern an."
+  icon: 🔪
+  location:
+    name: Oeserstraße, Tegel, Reinickendorf, Berlin
+    coordinates:
+      lat: 52.59036
+      lng: 13.29878
+  time: 2024-09-09T08:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484145.php
+  laws:
+    - stgb:
+        - 224
+    - tags:
+        - Häusliche Gewalt
+        - Messerangriff
+        - Festnahme
+        - Ermittlungen
+
+- title: Journalist bei Versammlung in Mitte angegriffen
+  description: "Im Zusammenhang mit einer öffentlichen Versammlung in Mitte wurde gestern Nachmittag ein Journalist angegriffen und verletzt. Nach bisherigen Erkenntnissen befand sich der 38-Jährige gegen 16.45 Uhr im Rahmen seiner beruflichen Tätigkeit zur Berichterstattung über das Versammlungsgeschehen zum Nahostkonflikt auf dem Alexanderplatz. Als er dabei die Versammlung mit dem Thema „Frieden in Gaza“ dokumentierte, soll man ihm mehrere Male mit einer Fahnenstange auf den Kopf geschlagen und somit verletzt haben. Dazu wollte der Angegriffene einen 20-jährigen Versammlungsteilnehmer als Tatverdächtigen wiedererkannt haben und machte Polizeieinsatzkräfte auf ihn aufmerksam. Die Polizisten nahmen den Mann fest. Nach rechtlicher Belehrung und Feststellung seiner Identität durfte dieser später seinen Weg fortsetzen. Der Journalist verzichtete auf eine sofortige medizinische Behandlung. Die Ermittlungen übernahm der Polizeiliche Staatsschutz des Landeskriminalamts Berlin."
+  icon: 📷
+  location:
+    name: Alexanderplatz, Mitte, Berlin
+    coordinates:
+      lat: 52.521900
+      lng: 13.413300
+  time: 2024-09-09T16:45:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484163.php
+  laws:
+    - stgb:
+        - 223
+        - 240
+    - tags:
+        - Angriff
+        - Journalist
+        - Versammlung
+        - Staatsschutz
+        - Ermittlungen
+
+- title: Journalist bei Versammlung in Kreuzberg angegriffen
+  description: "Gestern Abend wurde ein Journalist im Umfeld einer Versammlung in Kreuzberg angegriffen und verletzt. Gegen 19 Uhr befand sich der Journalist zusammen mit einem Begleiter bei einer Versammlung mit dem Thema „Sicherheit durch Solidarität und Menschlichkeit – gegen Abschiebeoffensive und militarisierte Grenzen“ auf dem Lausitzer Platz, um über diese zu berichten. Kaum bei der Versammlung eingetroffen, sollen er und dessen Begleiter sogleich von mehreren Jugendlichen bedrängt und an der Ausübung ihres Berufes gehindert worden sein. Trotz des Bedrängens setzten sie ihre Arbeit und ihren Weg fort, als plötzlich ein bislang unbekannter, der Beschreibung nach Jugendlicher den 38-Jährigen mit einem Kopfstoß angegriffen und verletzt haben soll. Als der Angreifer bemerkte, dass der Angegriffene und dessen Begleiter nahestehende Einsatzkräfte hinzuholte, flüchtete er in unbekannte Richtung. Der Journalist verzichtete auf eine sofortige medizinische Behandlung. Die Ermittlungen übernahm der Polizeiliche Staatsschutz des Landeskriminalamts Berlin."
+  icon: 📷
+  location:
+    name: Lausitzer Platz, Kreuzberg, Berlin
+    coordinates:
+      lat: 52.498500
+      lng: 13.431300
+  time: 2024-09-09T19:00:00+02:00
+  source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1484163.php
+  laws:
+    - stgb:
+        - 223
+        - 240
+    - tags:
+        - Angriff
+        - Journalist
+        - Versammlung
+        - Staatsschutz
+        - Ermittlungen
