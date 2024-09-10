@@ -539,8 +539,8 @@
   location:
     name: Metastraße, Rummelsburg, Lichtenberg, Berlin
     coordinates:
-      lat: 52.503849
-      lng: 13.483626
+      lat: 52.50828689187329
+      lng: 13.501863086508376
   time: 2024-09-04T17:45:00+02:00
   source: https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1482124.php
   laws:
